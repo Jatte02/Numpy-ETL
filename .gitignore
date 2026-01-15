@@ -1,0 +1,24 @@
+# --- Python ---
+__pycache__/
+*.pyc
+
+# --- Entornos Virtuales (¡Muy Importante!) ---
+venv/
+env/
+.venv/
+.env
+
+# --- Mac (Basura del sistema) ---
+.DS_Store
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints/
+
+# --- Datos (Para evitar subir CSVs gigantes por error) ---
+# Puedes comentar esto con # si quieres subir algunos CSV pequeños
+*.csv
+*.xlsx
+data/
+
+# --- VS Code (Configuraciones personales) ---
+.vscode/
