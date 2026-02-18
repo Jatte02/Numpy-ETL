@@ -16,9 +16,7 @@ env/
 
 # --- Datos (Para evitar subir CSVs gigantes por error) ---
 # Puedes comentar esto con # si quieres subir algunos CSV pequeños
-*.csv
-*.xlsx
-data/
+
 
 # --- VS Code (Configuraciones personales) ---
 .vscode/
