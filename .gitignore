@@ -14,9 +14,7 @@ env/
 # --- Jupyter Notebooks ---
 .ipynb_checkpoints/
 
-# --- Datos (Para evitar subir CSVs gigantes por error) ---
-# Puedes comentar esto con # si quieres subir algunos CSV pequeños
-
+.gitignore
 
 # --- VS Code (Configuraciones personales) ---
 .vscode/
